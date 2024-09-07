@@ -33,11 +33,11 @@
 }
 
 .bullet {
-    width: 10px;
-    height: 10px;
-    display: block; 
+    width: 25px;
+    height: 25px;
     position: absolute;
-    bottom: 110px; 
+    top: -10px;
+    /* display: none; */
 }
 
 #r-container {
@@ -47,6 +47,8 @@
 }
 
 #r-container .rocket {
+    display: flex;
+    justify-content: center;
     position: absolute;
     top: 35%;
     left: 50%;
