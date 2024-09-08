@@ -36,7 +36,7 @@
     width: 25px;
     height: 25px;
     position: absolute;
-    top: -10px;
+    /* top: -10px; */
     /* display: none; */
 }
 
@@ -51,7 +51,7 @@
     justify-content: center;
     position: absolute;
     top: 35%;
-    left: 50%;
+    left: 45%;
     width: 100px;
     height: 100px;
     background-image: url('images/Rocket.png');
